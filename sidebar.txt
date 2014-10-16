@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cbr:home|Door43 (cbr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cbr|d43-cbr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cbr/archive/master.zip|d43-cbr.zip]]
+
+**Recent Changes**
+{{changes>ns = cbr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cbr|Ethnologue data]]
+
